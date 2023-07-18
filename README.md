@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav-sahni-643807182" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="vaibhav-sahni-643807182" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vaibhavsahni2001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="vaibhavsahni2001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaibhavsahni2001" target="blank"><img align="center" src=https://upload.wikimedia.org/wikipedia/commons/6/6c/Leetcode.svg" alt="vaibhavsahni2001" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vaibhavsahni2001" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Leetcode.svg" alt="vaibhavsahni2001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
