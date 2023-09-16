@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Streamyard clone](https://github.com/hkirat/project-ideas-v2/tree/master/project-1)
 
-- 🌱 I’m currently learning **WebRTC, RTMP stream**
+- 🌱 I’m currently learning **OpenAI**
 
 - 📫 How to reach me **vaibhavsahni2001@gmail.com**
 
