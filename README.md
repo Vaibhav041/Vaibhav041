@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vaibhavsahni2001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K772HlW_tItPrMqrFso-dEPRu4cHM3sp/view?usp=sharing](https://drive.google.com/file/d/1K772HlW_tItPrMqrFso-dEPRu4cHM3sp/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1q4cEB0-HSTG0Uv4JuPOqT8z2z6UD8s72/view?usp=sharing](https://drive.google.com/file/d/1q4cEB0-HSTG0Uv4JuPOqT8z2z6UD8s72/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
